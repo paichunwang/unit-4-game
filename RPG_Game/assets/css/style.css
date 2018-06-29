@@ -54,3 +54,11 @@ div#pokemon img{
     color: white;
     padding: 10px 0px;
 }
+
+#enemy{
+    visibility: hidden;
+}
+
+#action{
+    visibility: hidden;
+}
