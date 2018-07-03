@@ -33,6 +33,13 @@ div#pokemon img{
     width: 800px;
 }
 
+audio {
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    left: -100px;
+}
+
 #pokemon{
     padding: 10px;
     text-align: center;
